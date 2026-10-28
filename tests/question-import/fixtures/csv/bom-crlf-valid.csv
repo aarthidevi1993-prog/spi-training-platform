@@ -1,0 +1,4 @@
+﻿Question ID,Course Code,Module Code,Question Text,Type,Marks,Option A,Option B,Option C,Option D,Option E,Option F,Option G,Option H,Option I,Option J,Correct Answer,Explanation,Status,Revision
+,SPI-101,M1,Which device measures level?,single_choice,1,LT,PT,TT,,,,,,,,A,A level transmitter.,,
+,SPI-101,,Which are temperature sensors?,multiple_choice,2,RTD,Thermocouple,Orifice,,,,,,,,"A,C",,,
+,SPI-101,,A control valve is a final element.,true_false,1,,,,,,,,,,,TRUE,,,

@@ -1,0 +1,3 @@
+# SQL files are stored and checked out with LF line endings on every platform (also on Windows with
+# core.autocrlf=true), so a migration's SHA-256 recorded in docs/runbooks matches the file in any checkout.
+*.sql text eol=lf

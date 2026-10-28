@@ -1,0 +1,5 @@
+Question ID,Course Code,Module Code,Question Text,Type,Marks,Option A,Option B,Option C,Option D,Option E,Option F,Option G,Option H,Option I,Option J,Correct Answer,Explanation,Status,Revision
+,SPI-101,,"Choose the range, in mA, used by ""smart"" transmitters",single_choice,1.5,"4-20 mA, loop powered",0-5 V,,,,,,,,,A,,,
+,SPI-101,,"Line one of the question
+Line two: which is correct?",single_choice,1,Yes,No,,,,,,,,,A,,,
+,SPI-101,,Débit massique — Coriolis ≈ ±0.1 % ; 流量计 ✓,single_choice,2,Coriolis,Vortex,,,,,,,,,A,Ünïcödé explanation,,

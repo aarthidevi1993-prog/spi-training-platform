@@ -1,0 +1,7 @@
+Question ID,Course Code,Module Code,Question Text,Type,Marks,Option A,Option B,Option C,Option D,Option E,Option F,Option G,Option H,Option I,Option J,Correct Answer,Explanation,Status,Revision
+,SPI-101,,Duplicate me?,single_choice,1,One,Two,,,,,,,,,A,,,
+,,,,,,,,,,,,,,,,,,,
+
+,SPI-101,,duplicate   ME?,single_choice,3,TWO,one,,,,,,,,,B,,,
+,SPI-101,,Too few fields?,single_choice,1,A,B
+,SPI-101,,Too many fields?,single_choice,1,A,B,,,,,,,,,A,,,,EXTRA

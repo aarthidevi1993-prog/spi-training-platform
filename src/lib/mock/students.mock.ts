@@ -1,0 +1,43 @@
+import type { Student } from "@/types";
+
+export const mockStudents: Student[] = [
+  {
+    id: "std_001",
+    userId: "usr_101",
+    studentCode: "SPI-STU-0001",
+    fullName: "Arun Kumar",
+    email: "arun.kumar@example.com",
+    organization: "Larsen Engineering",
+    designation: "Piping Design Engineer",
+    enrolledBatchIds: ["bat_001"],
+    status: "active",
+    createdAt: "2026-01-12T09:00:00.000Z",
+    updatedAt: "2026-01-12T09:00:00.000Z",
+  },
+  {
+    id: "std_002",
+    userId: "usr_102",
+    studentCode: "SPI-STU-0002",
+    fullName: "Divya Menon",
+    email: "divya.menon@example.com",
+    organization: "Petrotech Systems",
+    designation: "Instrumentation Engineer",
+    enrolledBatchIds: ["bat_001"],
+    status: "active",
+    createdAt: "2026-01-14T09:00:00.000Z",
+    updatedAt: "2026-01-14T09:00:00.000Z",
+  },
+  {
+    id: "std_003",
+    userId: "usr_103",
+    studentCode: "SPI-STU-0003",
+    fullName: "Rohit Sharma",
+    email: "rohit.sharma@example.com",
+    organization: "Freelance",
+    designation: "Trainee Engineer",
+    enrolledBatchIds: [],
+    status: "invited",
+    createdAt: "2026-02-02T09:00:00.000Z",
+    updatedAt: "2026-02-02T09:00:00.000Z",
+  },
+];
